@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Does deception involve more cognitive control than truth‐telling? Meta‐analyses of N2 and MFN ERP studies"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2023-05-16-does-deception-involve-more-cognitive-control
+excerpt: 'Two meta‐analyses quantifying N2 and MFN ERP components show that deception elicits greater cognitive control demands than truth‐telling.'
+date: 2023-05-16
+venue: "Psychophysiology"
+paperurl: "https://onlinelibrary.wiley.com/doi/10.1111/psyp.14333"
+bibtexurl: "https://onlinelibrary.wiley.com/action/downloadCitation?doi=10.1111%2Fpsyp.14333&format=bibtex"
+citation: 'Sai, L., Cheng, J., Shang, S., Fu, G., & Verschuere, B. (2023). "Does deception involve more cognitive control than truth‐telling? Meta‐analyses of N2 and MFN ERP studies." Psychophysiology, 00, e14333.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We conducted two separate meta‐analyses on event‐related potentials—the N2 and medial frontal negativity (MFN)—across deception versus truth‐telling tasks. Results revealed that deceptive responses consistently evoke larger N2 amplitudes and more negative MFN deflections, indicating that lying recruits additional inhibitory and monitoring processes. These findings support theories positing that deception imposes greater cognitive control demands compared to truthful reporting.
